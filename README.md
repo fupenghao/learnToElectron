@@ -5,4 +5,6 @@ https://www.youtube.com/watch?v=TnXz_nnQZrw
 
 ### I didn't not apply the IPC in my code as in the Video did. I will try to learn that in the future.
 
+### Just put these files under \electron project\cool-app\src
+
 ### 2021-3-7
